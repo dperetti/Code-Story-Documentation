@@ -1,0 +1,1 @@
+docker push dperetti/pgpilot:front-latest

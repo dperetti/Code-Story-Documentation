@@ -1,0 +1,17 @@
+<template name="console">
+    <div id="console">
+        <div id="terminal">
+          <div id="content">
+            {{#each commands}}
+            <div>
+                <span class="command label label-default">{{ nodeLabel }}</span><span class="command label label-{{#if analyze}}primary{{else}}default{{/if}}">{{ command }}</span>
+            {{#each lines}}
+            <div class="line {{#if this.isError}}error{{/if}}{{#if this.isCommand}}server-command{{/if}}">{{ this.txt }}</div>
+            {{/each}}
+            </div>
+            {{/each}}
+          </div>
+        </div>
+        <button id="clear" class="btn btn-default btn-xs" type="submit">Clear</button>
+    </div>
+</template>

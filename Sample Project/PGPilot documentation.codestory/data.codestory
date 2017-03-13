@@ -1,0 +1,3316 @@
+{
+    "allowCodeEditingWhenReadOnly": true,
+    "editable": true,
+    "fileExtensions": [
+        "Dockerfile",
+        "conf",
+        "html",
+        "js",
+        "jsx",
+        "less",
+        "py",
+        "sh",
+        "txt",
+        "yaml",
+        "yml"
+    ],
+    "focusedItemRef": "b8975650-c084-11e5-9a01-c56f8dcd0835",
+    "images": [
+        {
+            "ref": "7eaaa8a0-984f-11e5-a837-077a82bd7a4f",
+            "size": {
+                "height": 176,
+                "width": 367
+            }
+        },
+        {
+            "ref": "24bbce60-9858-11e5-8e74-8bacb0489527",
+            "size": {
+                "height": 265,
+                "width": 532
+            }
+        },
+        {
+            "ref": "53190090-98dd-11e5-a446-094c1ef440c7",
+            "size": {
+                "height": 732,
+                "width": 694
+            }
+        },
+        {
+            "ref": "06e5dde0-9858-11e5-8e74-8bacb0489527",
+            "size": {
+                "height": 183,
+                "width": 634
+            }
+        },
+        {
+            "ref": "512e7540-9846-11e5-a837-077a82bd7a4f",
+            "size": {
+                "height": 224,
+                "width": 373
+            }
+        },
+        {
+            "ref": "35276240-984f-11e5-a837-077a82bd7a4f",
+            "size": {
+                "height": 182,
+                "width": 398
+            }
+        },
+        {
+            "ref": "fcd90b80-984b-11e5-a837-077a82bd7a4f",
+            "size": {
+                "height": 649,
+                "width": 588
+            }
+        },
+        {
+            "ref": "f16ca390-9f5a-11e5-be17-f7e2c080c49c",
+            "size": {
+                "height": 160,
+                "width": 385
+            }
+        },
+        {
+            "ref": "3c0fc8d0-b939-11e5-a535-c96ec66f6c1e",
+            "size": {
+                "height": 697,
+                "width": 697
+            }
+        },
+        {
+            "ref": "19a82540-984a-11e5-a837-077a82bd7a4f",
+            "size": {
+                "height": 171,
+                "width": 771
+            }
+        },
+        {
+            "ref": "7a67bc80-9f5a-11e5-be17-f7e2c080c49c",
+            "size": {
+                "height": 296,
+                "width": 618
+            }
+        },
+        {
+            "ref": "fd066620-b952-11e5-a535-c96ec66f6c1e",
+            "size": {
+                "height": 250,
+                "width": 631
+            }
+        },
+        {
+            "ref": "e24eb470-9f5a-11e5-be17-f7e2c080c49c",
+            "size": {
+                "height": 176,
+                "width": 389
+            }
+        },
+        {
+            "ref": "ff3b3e00-bd64-11e5-b6ff-39c6cd57b69b",
+            "size": {
+                "height": 843,
+                "width": 1117
+            }
+        },
+        {
+            "ref": "2a5ecae0-984c-11e5-a837-077a82bd7a4f",
+            "size": {
+                "height": 650,
+                "width": 588
+            }
+        },
+        {
+            "ref": "5a599490-8f1a-11e5-bcb7-6d390970f7b7",
+            "size": {
+                "height": 71,
+                "width": 123
+            }
+        },
+        {
+            "ref": "c8e9af60-bd66-11e5-b6ff-39c6cd57b69b",
+            "size": {
+                "height": 843,
+                "width": 1117
+            }
+        },
+        {
+            "ref": "752b3410-b7fe-11e5-b8f2-37135766cb5b",
+            "size": {
+                "height": 245,
+                "width": 626
+            }
+        },
+        {
+            "ref": "a5887fa0-9850-11e5-8e74-8bacb0489527",
+            "size": {
+                "height": 189,
+                "width": 774
+            }
+        },
+        {
+            "ref": "e92fa3a0-9f58-11e5-be17-f7e2c080c49c",
+            "size": {
+                "height": 162,
+                "width": 374
+            }
+        },
+        {
+            "ref": "091e2530-9859-11e5-8e74-8bacb0489527",
+            "size": {
+                "height": 246,
+                "width": 628
+            }
+        },
+        {
+            "ref": "6afad550-984f-11e5-a837-077a82bd7a4f",
+            "size": {
+                "height": 151,
+                "width": 373
+            }
+        }
+    ],
+    "maxNumberOfFiles": 500,
+    "name": "PGPilot",
+    "notes": [
+        {
+            "items": [
+                {
+                    "content": "<p>This note describes how a pg<span style=\"font-size: 15.4px; line-height: 1.42857;\">node is initialized as a primary P</span><span style=\"font-size: 15.4px;\">ostgreSQL database.</span></p>",
+                    "ref": "615c2240-a03f-11e5-9996-475bbcae1431",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "The user clicks the Create Master button",
+                    "ref": "eb39a470-9f58-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "e91b3140-9f58-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "e91ae320-9f58-11e5-be17-f7e2c080c49c",
+                                "settings": {
+                                    "hasCaption": false,
+                                    "imageRef": "e92fa3a0-9f58-11e5-be17-f7e2c080c49c"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "e91ae320-9f58-11e5-be17-f7e2c080c49c"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": null,
+                    "ref": "fdad0ab0-9f59-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 1,
+                        "showIndicator": true,
+                        "token": "ulcSu"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "06778f80-9f5a-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "linesAfter": 2,
+                        "linesBefore": 0,
+                        "token": "AevV8"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "11174980-9f5a-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "linesAfter": 4,
+                        "linesBefore": 2,
+                        "token": "dUh5t"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "A modal panel opens",
+                    "ref": "692da420-9f5a-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "24d94fd0-9f5b-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "sP7sm"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "7a5b3961-9f5a-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "7a5b3960-9f5a-11e5-be17-f7e2c080c49c",
+                                "settings": {
+                                    "imageRef": "7a67bc80-9f5a-11e5-be17-f7e2c080c49c"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "7a5b3960-9f5a-11e5-be17-f7e2c080c49c"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "<p>The user can set a password if he wants to be able to connect to the postgreSQL server from the internet.</p>",
+                    "ref": "825c0590-9f5a-11e5-be17-f7e2c080c49c",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "525dafa0-9f5b-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "linesAfter": 1,
+                        "linesBefore": 3,
+                        "token": "PmMVW"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "\"init_primary\" command is prepared in Meteor",
+                    "ref": "436f8640-9f5f-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "8f79e980-9f5b-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "linesAfter": 24,
+                        "linesBefore": 0,
+                        "token": "uzGpj"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "e24601e0-9f5a-11e5-be17-f7e2c080c49c",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "e245dad0-9f5a-11e5-be17-f7e2c080c49c",
+                                "settings": {
+                                    "caption": {
+                                        "content": "<p>Creation in progress&nbsp;</p>"
+                                    },
+                                    "hasCaption": true,
+                                    "imageRef": "e24eb470-9f5a-11e5-be17-f7e2c080c49c"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "e245dad0-9f5a-11e5-be17-f7e2c080c49c"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "Command is received by the server",
+                    "ref": "90ce0070-9f5e-11e5-bee2-492d8c36aae0",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>As a result, a primary postgres database is set up.</p>",
+                    "ref": "543d2620-ebf4-11e6-a9c2-0d50068f5333",
+                    "settings": {
+                        "noteRef": "c30344b0-9f8b-11e5-b9dc-3759b64e4f46"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "The front end UI reflects that the master is created",
+                    "ref": "f56c0790-9f61-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "de1e0640-9f5e-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "f10e08d0-9f5a-11e5-be17-f7e2c080c49c",
+                                "settings": {
+                                    "caption": {
+                                        "content": null
+                                    },
+                                    "hasBorder": false,
+                                    "hasCaption": false,
+                                    "hasDropShadow": false,
+                                    "imageRef": "f16ca390-9f5a-11e5-be17-f7e2c080c49c"
+                                },
+                                "type": "image"
+                            }
+                        ],
+                        "selectedImageRef": "f10e08d0-9f5a-11e5-be17-f7e2c080c49c"
+                    },
+                    "type": "imageGroup"
+                }
+            ],
+            "ref": "78efd470-9f58-11e5-be17-f7e2c080c49c",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "Create Master"
+        },
+        {
+            "items": [
+                {
+                    "content": null,
+                    "ref": "6dc009b1-9537-11e5-9120-63a988a278ba",
+                    "settings": {
+                        "imageAlign": "right",
+                        "images": [
+                            {
+                                "ref": "6dc009b0-9537-11e5-9120-63a988a278ba",
+                                "settings": {
+                                    "hasDropShadow": false,
+                                    "imageRef": "3c0fc8d0-b939-11e5-a535-c96ec66f6c1e"
+                                }
+                            }
+                        ],
+                        "maxHeight": 150,
+                        "selectedImageRef": "6dc009b0-9537-11e5-9120-63a988a278ba"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "<p><b>PGPilot</b> lets you <span style=\"line-height: 1.42857;\">control postgreSQL server instances, set up multi-node replications using a graphic user interface.</span></p><p><br><b>PGPilot</b> is <u>twofold</u> :</p><p></p><ul><li><span style=\"line-height: 1.42857;\"><b>PGPilot node</b>, which is a <b>postgresql server</b> + <b>a python websocket server</b>, both \"<a href=\"https://www.docker.com/what-docker\">dockerized</a>\" in a single container.</span><br></li><li><span style=\"line-height: 1.42857;\"><b>A front-end</b>, which is currently a Meteor <b>web application</b> designed to run and be accessed locally.</span></li></ul><span style=\"line-height: 1.42857;\">Using the web app, the user is able to control and orchestrate remote postgresql servers and configure replication, backups, etc.</span><br><p></p>",
+                    "ref": "f5022cd0-8634-11e5-aebe-df0f8426c901",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "90aaa6a0-98df-11e5-a446-094c1ef440c7",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "90aa7f90-98df-11e5-a446-094c1ef440c7",
+                                "settings": {
+                                    "imageRef": "c8e9af60-bd66-11e5-b6ff-39c6cd57b69b"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "90aa7f90-98df-11e5-a446-094c1ef440c7"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": null,
+                    "ref": "530e7940-98dd-11e5-a446-094c1ef440c7",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "530e5230-98dd-11e5-a446-094c1ef440c7",
+                                "settings": {
+                                    "imageRef": "53190090-98dd-11e5-a446-094c1ef440c7"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "530e5230-98dd-11e5-a446-094c1ef440c7"
+                    },
+                    "type": "imageGroup"
+                }
+            ],
+            "ref": "cb843a10-8634-11e5-aebe-df0f8426c901",
+            "settings": {},
+            "title": "What is PGPilot ?"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>Meteor is required for development.</p>",
+                    "ref": "6af58fc0-f6cf-11e6-93b2-5585f6f4982a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "inserts": [
+                                {
+                                    "pos": 3,
+                                    "type": "PROJECT_DIR"
+                                }
+                            ],
+                            "text": "cd /pgpilot-webapp",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "93d2fc10-7b0c-11e5-b2ba-670f641a2552",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "Start meteor to launch the app",
+                    "ref": "91c8d4e0-f6cf-11e6-93b2-5585f6f4982a",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "meteor",
+                            "type": "command"
+                        },
+                        {
+                            "text": "=> Started proxy.",
+                            "type": "result"
+                        },
+                        {
+                            "text": "=> Started MongoDB.",
+                            "type": "result"
+                        },
+                        {
+                            "text": "=> Started your app.",
+                            "type": "result"
+                        },
+                        {
+                            "text": "",
+                            "type": "result"
+                        },
+                        {
+                            "text": "=> App running at: http://localhost:3000/",
+                            "type": "result"
+                        }
+                    ],
+                    "ref": "2b537830-7b0d-11e5-b2ba-670f641a2552",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "Open the browser",
+                    "ref": "951f52e0-f6cf-11e6-93b2-5585f6f4982a",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>Open the browser at&nbsp;<a href=\"http://localhost:3000/\">http://localhost:3000/</a>.</p>",
+                    "ref": "ea1cf020-bd70-11e5-9191-c3501916d748",
+                    "settings": {},
+                    "type": "text"
+                }
+            ],
+            "ref": "7cb7ea40-7b0c-11e5-b2ba-670f641a2552",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "PGPilot Front End"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>This note describes how to run PGPilot locally for development purposes.</p>",
+                    "ref": "a8be75b0-b15c-11e5-b3ad-f9c443e44f71",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p><span style=\"line-height: 1.42857;\">The PGPilot nodes (we call them </span><i style=\"line-height: 1.42857;\"><b>pgnodes</b></i><span style=\"line-height: 1.42857;\">), instead of being deployed on remote hosts, will be run locally using Docker.</span><br></p><p><span style=\"line-height: 1.42857;\">We're going to launch two nodes using <a href=\"https://docs.docker.com/compose/\">Docker Compose</a> which we will later (using the Front end) configure as <b>master</b> and <b>slave</b>.</span></p>",
+                    "ref": "cd2a8b80-a38a-11e5-b2ab-cf292de24287",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Make sure docker machine is up",
+                    "ref": "d5432570-a38a-11e5-b2ab-cf292de24287",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker-machine start dev",
+                            "type": "command"
+                        },
+                        {
+                            "text": "eval \"$(docker-machine env dev)\"",
+                            "type": "command"
+                        },
+                        {
+                            "text": "docker-machine ip dev",
+                            "type": "command"
+                        },
+                        {
+                            "text": "192.168.99.100",
+                            "type": "result"
+                        }
+                    ],
+                    "ref": "d5432571-a38a-11e5-b2ab-cf292de24287",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "Launch two nodes at once using docker-compose.",
+                    "ref": "ce0f5b50-a38c-11e5-b67b-0bcae25283fb",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": [
+                        {
+                            "inserts": [
+                                {
+                                    "pos": 3,
+                                    "type": "PROJECT_DIR"
+                                }
+                            ],
+                            "text": "cd /pgpilot-node",
+                            "type": "command"
+                        },
+                        {
+                            "text": "docker-compose -f dc-dev.yml up",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "d1cfbeb0-a38c-11e5-b67b-0bcae25283fb",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "<p><code class=\"code\">docker-compose.yml</code> is set to launch two nodes, on different ports.</p>",
+                    "ref": "d8cbf560-b883-11e5-964e-95c35734239a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "d8cbf561-b883-11e5-964e-95c35734239a",
+                    "settings": {
+                        "linesAfter": 21,
+                        "linesBefore": 0,
+                        "token": "67JgD"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>Each node uses 2 ports :</p><p></p><ul><li><span style=\"font-size: 12.6px; line-height: 1.42857;\">A port for the websocket : <code class=\"code\">8888</code></span><br></li><li><span style=\"font-size: 12.6px; line-height: 1.42857;\">A port for the postgreSQL server : <code class=\"code\">5432</code></span><br></li></ul><p></p><p><code class=\"code\">volumes: ./www:/www</code>&nbsp;: When developing, it allows us to work on the node's codebase without rebuilding.</p>",
+                    "ref": "d8cbf562-b883-11e5-964e-95c35734239a",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "<p>Both nodes should now be running.</p><p>Hit&nbsp;<code class=\"code\">ctrl-C</code>&nbsp;to stop the containers.</p>",
+                    "ref": "e3bf2690-b883-11e5-964e-95c35734239a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Faster restart by just restarting Tornado",
+                    "ref": "44bfb010-bd73-11e5-9191-c3501916d748",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": "<p>When working on the code, one may want to just restart the <i>Tornado</i> server and immediately see code changes in effect.</p><p>Since&nbsp;<code class=\"code\">www</code> is set by <code class=\"code\">docker-compose.yml</code> to be shared with our development <code class=\"code\">www</code> directory, this is possible.</p><p>We just need to launch each node separately and a bit differently :</p>",
+                    "ref": "9bde3d30-bd73-11e5-9191-c3501916d748",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Launch and a node running bash",
+                    "ref": "a8be06b0-bd74-11e5-9191-c3501916d748",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker-compose -f dc-dev.yml run --service-ports --rm master /bin/bash",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "42c63590-bd69-11e5-9191-c3501916d748",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "<p>For more information, visit <a href=\"https://docs.docker.com/compose/reference/run/\">docker-compose run reference</a>.</p>",
+                    "ref": "65af3ca0-bd73-11e5-9191-c3501916d748",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "Run the Tornado server",
+                    "ref": "bfd71cb0-bd74-11e5-9191-c3501916d748",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "python server.py",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "87992ec0-bd73-11e5-9191-c3501916d748",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "<p>Without leaving the container, the server can be stopped and restarted.</p><p>Hit <code class=\"code\">ctrl-D</code> to leave the container.</p>",
+                    "ref": "ca311b20-bd74-11e5-9191-c3501916d748",
+                    "settings": {},
+                    "type": "text"
+                }
+            ],
+            "ref": "bb32ef80-a38a-11e5-b2ab-cf292de24287",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "PGPilot Nodes"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>We run this script in a fresh node that we make a slave of a master node.</p><p>It prepares and starts the base backup.</p>",
+                    "ref": "82caf160-9872-11e5-8e74-8bacb0489527",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p>We first define the&nbsp;<a href=\"http://www.postgresql.org/docs/9.3/static/libpq-pgpass.html\">PGPASSFILE</a>&nbsp;which will be used by the next comamnd.</p>",
+                    "ref": "0da1b2b0-9873-11e5-8e74-8bacb0489527",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "d70d60a0-9872-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "56jqW"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>We use the <a href=\"http://www.postgresql.org/docs/9.4/static/app-pgbasebackup.html\">pg_basebackup</a> command to do a full backup.<br><br></p>",
+                    "ref": "0b5d8f10-9873-11e5-8e74-8bacb0489527",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "d9cf5f70-9875-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 4,
+                        "linesBefore": 1,
+                        "token": "rvfKn"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p><b>The <i>--xlog-method=stream</i> parameters ensures that any change might occur in the master during the backup will be transferred as well :</b></p><p>--xlog-method=method</p><p>Includes the required transaction log files (WAL files) in the backup. This will include all transaction logs generated during the backup. If this option is specified, it is possible to start a postmaster directly in the extracted directory without the need to consult the log archive, thus making this a completely standalone backup.</p><p>The following methods for collecting the transaction logs are supported:</p><p><u>fetch</u></p><p>The transaction log files are collected at the end of the backup. Therefore, it is necessary for the wal_keep_segments parameter to be set high enough that the log is not removed before the end of the backup. If the log has been rotated when it's time to transfer it, the backup will fail and be unusable.</p><p><span style=\"font-size: 12.6px; line-height: 1.42857;\"><u><b>stream</b></u></span><br></p><p>Stream the transaction log while the backup is created. This will open a second connection to the server and start streaming the transaction log in parallel while running the backup. Therefore, it will use up two slots configured by the max_wal_senders parameter. As long as the client can keep up with transaction log received, using this mode requires no extra transaction logs to be saved on the master.</p>",
+                    "ref": "8fb67ab0-9873-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                }
+            ],
+            "ref": "464f8b60-9872-11e5-8e74-8bacb0489527",
+            "settings": {
+                "hiddenFromTOC": true
+            },
+            "title": "create_base_backup.sh"
+        },
+        {
+            "items": [
+                {
+                    "content": "Status command is sent from Meteor",
+                    "ref": "77758ca0-a06d-11e5-8e90-c7d66be9c6c2",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "a5296670-8f8e-11e5-aa00-2d8f160b7b78",
+                    "settings": {
+                        "linesAfter": 1,
+                        "linesBefore": 1,
+                        "token": "tDgsV"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Message is parsed on the server",
+                    "ref": "aa447240-a06d-11e5-8e90-c7d66be9c6c2",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "e5775840-8f8e-11e5-aa00-2d8f160b7b78",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 1,
+                        "token": "ccNjl"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "46cf3c70-8f8f-11e5-aa00-2d8f160b7b78",
+                    "settings": {
+                        "linesAfter": 2,
+                        "linesBefore": 2,
+                        "token": "Qs5th"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Command is executed",
+                    "ref": "c0d174e0-a06d-11e5-8e90-c7d66be9c6c2",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "6c77bd30-8f8f-11e5-aa00-2d8f160b7b78",
+                    "settings": {
+                        "linesAfter": 20,
+                        "linesBefore": 0,
+                        "token": "rwR9e"
+                    },
+                    "type": "code"
+                }
+            ],
+            "ref": "4b631810-8f71-11e5-9c8b-e567fce499bc",
+            "settings": {},
+            "title": "Example : Status"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p><span style=\"font-size: 15.4px; line-height: 1.42857;\">This note describes what happens when we launch the</span><span style=\"font-size: 15.4px; line-height: 1.42857;\">&nbsp;PGPilot Node, which is a dockerized postgreSQL server wrapped by a Tornado websocket server.</span><br></p>",
+                    "ref": "3b3959a0-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "kind": ""
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "Docker command",
+                    "ref": "75ea5fe0-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker run -ti -p 8888:8888 -p 6000:5432 -e \"pass=mypassword\" -h node1 --rm pgnode",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "75ea86f0-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "<p>This command launches a docker instance of the <i>pgnode</i> image we built earlier.<br></p><ul><li><span style=\"line-height: 1.42857;\"><code class=\"code\">-ti</code> : run in interactive mode. As a consequence, stdout log will be displayed in the console and the process is killed with ctrl-C.</span></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">-p 8888:8888</code> : map the instance's 8888 to 8888 on the host (that will be the websocket port).</span></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">-p 6000:5432</code> : map the instance's 5432 postgreSQL port to 6000 on the host.</span></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">-e \"pass=mypassword\"</code> : set an environment variable.</span></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">--rm</code> : remove (delete) the instance's data when it terminates.</span></li></ul><p></p>",
+                    "ref": "75ea86f1-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Dockerfile",
+                    "ref": "75ea86f2-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p><span style=\"line-height: 1.42857;\">Our Dockerfile extends the </span><a href=\"https://hub.docker.com/_/postgres/\" style=\"line-height: 1.42857; background-color: rgb(255, 255, 255);\">official postgreSQL Dockerfile</a><span style=\"line-height: 1.42857;\">.</span><br></p>",
+                    "ref": "75ea86f3-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "75ea86f4-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "linesAfter": 1,
+                        "linesBefore": 0,
+                        "token": "yehjg"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>On top of the postgreSQL server, we will be running a Tornado websocket server :</p>",
+                    "ref": "75ea86f5-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "75ea86f6-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "linesAfter": 1,
+                        "linesBefore": 0,
+                        "token": "Dfukz"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>The main command simply says to run the tornado server :</p>",
+                    "ref": "75ea86f7-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "75ea86f8-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "R5zeP"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>The <a href=\"http://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime\">entrypoint</a> is a trick to generate a self-signed SSL certificate (that will be useful later to secure the connection) if none is found.</p><p>The user could provide its own certificate by mounting its <a href=\"https://docs.docker.com/engine/userguide/dockervolumes/#mount-a-host-directory-as-a-data-volume\">overriding</a> the <code class=\"code\">/certs</code> directory on <i><code class=\"code\">docker run</code></i>.</p>",
+                    "ref": "75ea86f9-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "75ea86fa-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "raSh9"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Tornado server",
+                    "ref": "75ea86fb-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "807ef653-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "linesAfter": 22,
+                        "linesBefore": 0,
+                        "token": "rp5lk"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>The tornado application is defined to be the <i>MainHandler</i>.</p>",
+                    "ref": "807ef654-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "807ef655-8ff2-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "linesAfter": 23,
+                        "linesBefore": 0,
+                        "token": "t5bmc"
+                    },
+                    "type": "code"
+                }
+            ],
+            "ref": "a6cd9b70-8edc-11e5-88ba-e577154f0672",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "PGPilot server node startup"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>This note describes how we display modals in the web app.</p>",
+                    "ref": "f431bc90-b7fc-11e5-b8f2-37135766cb5b",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p>We use React Bootstrap <a href=\"http://react-bootstrap.github.io/components.html#modals-props-modal\">Modals</a>&nbsp;but it is not very convenient to trigger.</p><p>For this purpose we have defined a <code class=\"code\">launchModal</code> function :</p>",
+                    "ref": "d92e4d00-b7fc-11e5-b8f2-37135766cb5b",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Call launchModal, passing a React Component",
+                    "ref": "86d5c180-b7fe-11e5-b8f2-37135766cb5b",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "e68da6c0-b7fd-11e5-b8f2-37135766cb5b",
+                    "settings": {
+                        "linesAfter": 9,
+                        "linesBefore": 0,
+                        "showIndicator": false,
+                        "syntaxAuto": true,
+                        "token": "aWzaF"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>To use it, we pass a React Component such as the <code class=\"code\">CreateMasterModal</code>&nbsp;component and a handler :</p>",
+                    "ref": "04e857a0-b7fe-11e5-b8f2-37135766cb5b",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "0177e900-b7fe-11e5-b8f2-37135766cb5b",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "showIndicator": false,
+                        "syntaxAuto": true,
+                        "token": "dUh5t"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "React Component",
+                    "ref": "9a3a33f0-b7fe-11e5-b8f2-37135766cb5b",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "751959c1-b7fe-11e5-b8f2-37135766cb5b",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "751959c0-b7fe-11e5-b8f2-37135766cb5b",
+                                "settings": {
+                                    "imageRef": "752b3410-b7fe-11e5-b8f2-37135766cb5b"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "751959c0-b7fe-11e5-b8f2-37135766cb5b"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": null,
+                    "ref": "40985750-b7fe-11e5-b8f2-37135766cb5b",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "showIndicator": false,
+                        "syntaxAuto": true,
+                        "token": "EfALP"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "See also",
+                    "ref": "e1b4b200-b7fe-11e5-b8f2-37135766cb5b",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": "Link to...",
+                    "ref": "dc89e930-b7fe-11e5-b8f2-37135766cb5b",
+                    "settings": {
+                        "noteRef": "4c5e30a0-8f13-11e5-bcb7-6d390970f7b7"
+                    },
+                    "type": "reference"
+                }
+            ],
+            "ref": "d636b7e0-b7fc-11e5-b8f2-37135766cb5b",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "Modals"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>This note describes how the <b>pgnode</b> sets up the postgres database as a primary as a result of \"init_primary\" command being sent by the web app.</p>",
+                    "ref": "347d6bc0-a054-11e5-9996-475bbcae1431",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "df2124f0-9f8b-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "uT7lz"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "df2124f1-9f8b-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "linesAfter": 7,
+                        "linesBefore": 0,
+                        "token": "njQvz"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>The command first initializes a database with <i>pg_ctl initdb</i>, then creates a <i>replication</i>&nbsp;role...</p>",
+                    "ref": "df2124f2-9f8b-11e5-b9dc-3759b64e4f46",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "df2124f3-9f8b-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "9yf7b"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>... and copies the certificates from /certs to the postgres data directory.</p>",
+                    "ref": "df2124f4-9f8b-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "noteRef": "5c43f580-9888-11e5-ad23-6988e9d175be"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "df2124f6-9f8b-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 0,
+                        "token": "lJafF"
+                    },
+                    "type": "code"
+                }
+            ],
+            "ref": "c30344b0-9f8b-11e5-b9dc-3759b64e4f46",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "Init primary on pgnode"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>This script copies the certificates from /certs to the postgresql data folder in&nbsp;<span style=\"line-height: 1.42857;\">order to be able to connect remotely to the database through SSL.</span></p>",
+                    "ref": "795b7800-9888-11e5-ad23-6988e9d175be",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "68e301f0-9888-11e5-ad23-6988e9d175be",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 0,
+                        "token": "lJafF"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>The certificates in /certs were either placed there manually by the user (by overriding /cert with docker --volume feature) or created automatically and self-signed by the Dockerfile.</p>",
+                    "ref": "19421240-9f62-11e5-b9dc-3759b64e4f46",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "292f5f50-9f62-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "linesAfter": 1,
+                        "linesBefore": 0,
+                        "token": "DVsJW"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "4a7d86a0-9f62-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "linesAfter": 1,
+                        "linesBefore": 0,
+                        "token": "haQCF"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "3af36830-9f62-11e5-b9dc-3759b64e4f46",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 0,
+                        "token": "raSh9"
+                    },
+                    "type": "code"
+                }
+            ],
+            "ref": "5c43f580-9888-11e5-ad23-6988e9d175be",
+            "settings": {
+                "hiddenFromTOC": false
+            },
+            "title": "copy_certificates.sh"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p><span style=\"line-height: 1.42857;\">This note describes what happens when the Meteor web application starts, both server-side and client-side.</span><br></p>",
+                    "ref": "09631300-85b9-11e5-aebe-df0f8426c901",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p>The PGPilot front-end is designed to run locally.</p><p>The \"Server\" designates the Meteor application that <u>also runs locally</u>, in the background, and which the client (= the browser) connects to on <i>localhost</i>.</p><p>This Meteor server <b>is not</b> the postgres server node.</p>",
+                    "ref": "410c7e90-85b9-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "kind": "important"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "Server-side",
+                    "ref": "255a0a50-85b9-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "level": 2
+                    },
+                    "type": "heading"
+                },
+                {
+                    "content": "Link to...",
+                    "ref": "1edbe680-85b9-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "noteRef": "0ec0f240-7b0f-11e5-b2ba-670f641a2552"
+                    },
+                    "type": "reference"
+                },
+                {
+                    "content": "Client Side",
+                    "ref": "fc6524a0-8ff3-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "level": 2
+                    },
+                    "type": "heading"
+                },
+                {
+                    "content": "Link to...",
+                    "ref": "09cd9b90-8ff4-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "noteRef": "6129c2d0-85c0-11e5-aebe-df0f8426c901"
+                    },
+                    "type": "reference"
+                }
+            ],
+            "ref": "f3a6a6d0-85b8-11e5-aebe-df0f8426c901",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "Front-end startup"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>We use <a href=\"https://github.com/jshimko/meteor-launchpad/blob/67de0e9c8f0ab23aba34958f4082a0204b3e2157/README.md\">meteor-launchpad</a> to build a docker image of the front end that can run out of the box.</p>",
+                    "ref": "1c6ead10-f6ce-11e6-96cb-07a1c65b119a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "inserts": [
+                                {
+                                    "pos": 3,
+                                    "type": "PROJECT_DIR"
+                                }
+                            ],
+                            "text": "cd /pgpilot-webapp",
+                            "type": "command"
+                        },
+                        {
+                            "text": "sh build_image.sh",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "89625e80-f6ce-11e6-93b2-5585f6f4982a",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": null,
+                    "ref": "453b2a20-f6ce-11e6-96cb-07a1c65b119a",
+                    "settings": {
+                        "linesAfter": 1,
+                        "linesBefore": 0,
+                        "showIndicator": false,
+                        "syntaxAuto": true,
+                        "token": "e2CP5"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "f3a791c0-f6ce-11e6-93b2-5585f6f4982a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "showIndicator": false,
+                        "syntaxAuto": true,
+                        "token": "RWbqV"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p><a href=\"https://github.com/jshimko/meteor-launchpad/blob/f2e879208da6625bc11f2eebeaccaa87232b5672/scripts/install-mongo.sh#L5\">Meteor-launchpad checks the existence</a>&nbsp;of a&nbsp;<code class=\"code\">launchpad.conf</code> file :<br></p>",
+                    "ref": "fe4724b0-f6ce-11e6-93b2-5585f6f4982a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "b12f1ed0-f6ce-11e6-93b2-5585f6f4982a",
+                    "settings": {
+                        "linesAfter": 2,
+                        "linesBefore": 0,
+                        "mode": "Properties files",
+                        "showIndicator": false,
+                        "syntaxAuto": true,
+                        "token": "jf32V"
+                    },
+                    "type": "code"
+                }
+            ],
+            "ref": "1487d180-f6ce-11e6-96cb-07a1c65b119a",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "Docker image"
+        },
+        {
+            "items": [
+                {
+                    "content": "Launch two nodes",
+                    "ref": "21468620-984a-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>First launch two nodes, in two different sessions.</p>",
+                    "ref": "3cd72510-984b-11e5-a837-077a82bd7a4f",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p>The first one will be our <b>master</b> node.&nbsp;Websocket on 8888, postgreSQL on 6000.</p>",
+                    "ref": "6ced48c0-984a-11e5-a837-077a82bd7a4f",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker run -ti -v $(pwd)/websocket:/www -p 8888:8888 -p 6000:5432 -e \"pass=mypassword\" -h node1 --rm pgnode",
+                            "type": "command"
+                        },
+                        {
+                            "text": "Generating RSA private key, 1024 bit long modulus",
+                            "type": "result"
+                        },
+                        {
+                            "text": "...",
+                            "type": "result"
+                        }
+                    ],
+                    "ref": "40f02530-984a-11e5-a837-077a82bd7a4f",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "<p>The second one will be the <b>slave</b> node.&nbsp;Websocket on 8889, postgreSQL on 6001.</p>",
+                    "ref": "94eeada0-984a-11e5-a837-077a82bd7a4f",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker run -ti -v $(pwd)/websocket:/www -p 8889:8888 -p 6001:5432 -e \"pass=mypassword\" -h node2 --rm pgnode",
+                            "type": "command"
+                        },
+                        {
+                            "text": "Generating RSA private key, 1024 bit long modulus",
+                            "type": "result"
+                        },
+                        {
+                            "text": "...",
+                            "type": "result"
+                        }
+                    ],
+                    "ref": "57466060-984a-11e5-a837-077a82bd7a4f",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "<p>This way to launch the nodes is for testing purpose : because of --rm parameter, the docker image data will be deleted when the node is stopped with ctrl-C !</p>",
+                    "ref": "b1549360-984a-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "kind": "important"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "In the front end, configure the nodes",
+                    "ref": "7b76a390-984b-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "fcd16a61-984b-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "fcd16a60-984b-11e5-a837-077a82bd7a4f",
+                                "settings": {
+                                    "caption": {
+                                        "content": "<p>First node configuration</p>"
+                                    },
+                                    "hasBorder": true,
+                                    "hasCaption": true,
+                                    "imageRef": "fcd90b80-984b-11e5-a837-077a82bd7a4f"
+                                }
+                            },
+                            {
+                                "ref": "29aae430-984c-11e5-a837-077a82bd7a4f",
+                                "settings": {
+                                    "caption": {
+                                        "content": "<p>Second node configuration (\"slave\")</p>"
+                                    },
+                                    "hasBorder": true,
+                                    "hasCaption": true,
+                                    "imageRef": "2a5ecae0-984c-11e5-a837-077a82bd7a4f"
+                                }
+                            }
+                        ],
+                        "maxHeight": 400,
+                        "selectedImageRef": "fcd16a60-984b-11e5-a837-077a82bd7a4f"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "<p>We should get this :</p>",
+                    "ref": "e9bc9730-984e-11e5-a837-077a82bd7a4f",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "29aae431-984c-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [],
+                        "maxHeight": 400,
+                        "selectedImageRef": "29aae430-984c-11e5-a837-077a82bd7a4f"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": null,
+                    "ref": "19a1e3b1-984a-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "19a1e3b0-984a-11e5-a837-077a82bd7a4f",
+                                "settings": {
+                                    "imageRef": "19a82540-984a-11e5-a837-077a82bd7a4f"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "19a1e3b0-984a-11e5-a837-077a82bd7a4f"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "<p>It's a good idea to save the configuration at this point.</p>",
+                    "ref": "108c80f0-984f-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "Create a Master database on the \"Master\" node",
+                    "ref": "b8de36f0-984e-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "35208471-984f-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "35208470-984f-11e5-a837-077a82bd7a4f",
+                                "settings": {
+                                    "caption": {
+                                        "content": "<p>Creating the master.</p>"
+                                    },
+                                    "hasCaption": true,
+                                    "imageRef": "35276240-984f-11e5-a837-077a82bd7a4f"
+                                }
+                            },
+                            {
+                                "ref": "6aa36680-984f-11e5-a837-077a82bd7a4f",
+                                "settings": {
+                                    "caption": {
+                                        "content": "<p>Now let's start it.</p>"
+                                    },
+                                    "hasBorder": false,
+                                    "hasCaption": true,
+                                    "hasDropShadow": false,
+                                    "imageRef": "6afad550-984f-11e5-a837-077a82bd7a4f"
+                                },
+                                "type": "image"
+                            },
+                            {
+                                "ref": "7e5bc550-984f-11e5-a837-077a82bd7a4f",
+                                "settings": {
+                                    "caption": {
+                                        "content": "<p>Master is now up !</p>"
+                                    },
+                                    "hasBorder": false,
+                                    "hasCaption": true,
+                                    "hasDropShadow": false,
+                                    "imageRef": "7eaaa8a0-984f-11e5-a837-077a82bd7a4f"
+                                },
+                                "type": "image"
+                            }
+                        ],
+                        "selectedImageRef": "6aa36680-984f-11e5-a837-077a82bd7a4f"
+                    },
+                    "type": "imageGroup"
+                }
+            ],
+            "ref": "1577e910-984a-11e5-a837-077a82bd7a4f",
+            "settings": {
+                "hiddenFromTOC": true
+            },
+            "title": "Preparation"
+        },
+        {
+            "items": [
+                {
+                    "content": "Nodes",
+                    "ref": "5615d480-b958-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": "<p>In real the world, the nodes will be launched on distinct remote hosts.</p><p>On each host, you would simply :</p>",
+                    "ref": "ae892e20-b956-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "ssh root@<your server>",
+                            "type": "command"
+                        },
+                        {
+                            "text": "docker run -d -p \"8888:8888\" -p \"5432:5432\" -e \"pass=mypassword\" --restart=on-failure dperetti/pgpilot:node-0.4.3",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "debd6bb0-b956-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "<p>This command launches a docker container of the <i>pgnode</i> image we built earlier.</p><ul><li><span style=\"line-height: 1.42857;\"><code class=\"code\">-d</code> : detached mode</span></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">-p 8888:8888</code> : map the websocket port</span></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">-p 5432:5432</code> : map the postgreSQL port</span></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">-e \"pass=mypassword\"</code> : pass the password as an environment variable.</span></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">--restart=on-failure:10</code> : restart policy<br></span></li></ul><p></p>",
+                    "ref": "debd6bb1-b956-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p>For all possible options, visit the <a href=\"https://docs.docker.com/engine/reference/commandline/run/\">Docker documentation</a>.</p>",
+                    "ref": "f96916f0-b959-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Web app",
+                    "ref": "5abb40b0-b958-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": "<p>The web app is run locally, on your computer.</p><p>First <i>cd</i> to the directory where you expect to use or save the <code class=\"code\">pgpilot.yaml</code> configuration file.&nbsp;<span style=\"line-height: 1.42857;\">It's ok to start the web app without any, since you can create nodes and save configuration using the GUI.</span></p>",
+                    "ref": "3db119c0-b95a-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker run --rm -ti -p 8080:80 -v $(pwd):/config dperetti/pgpilot:webapp",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "61903710-b958-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "<p>Open your browser and connect to your docker machine at the specified port (here <code class=\"code\">8080</code>).</p>",
+                    "ref": "9393a470-b95a-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "text"
+                }
+            ],
+            "ref": "a0a2d4a0-b956-11e5-a535-c96ec66f6c1e",
+            "settings": {},
+            "title": "Real world usage"
+        },
+        {
+            "items": [
+                {
+                    "content": "index.html is displayed",
+                    "ref": "2f08b3f0-85c1-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "37feb590-85c1-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "linesAfter": 14,
+                        "linesBefore": 0,
+                        "token": "uxHEq"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>Here, we use Meteor's&nbsp;<a href=\"http://docs.meteor.com/#/full/livehtmltemplates\">Spacebars</a>&nbsp;template to display the <i>MainNavBar</i> component and the <i>PGNodes</i> components that are both React components. This is made possible by the <a href=\"https://github.com/reactjs/react-meteor\">react-meteor package</a>.</p><p>We use <a href=\"http://getbootstrap.com\">Bootstrap 3</a> for the layout and style, and <a href=\"http://react-bootstrap.github.io\">react-bootstrap</a> to make use of it more elegantly with React.</p>",
+                    "ref": "744a0ae0-85c1-11e5-aebe-df0f8426c901",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Meteor.startup() is called",
+                    "ref": "cfa6cc90-8632-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>Meteor <a href=\"http://docs.meteor.com/#/full/meteor_startup\">calls this function automatically on startup</a>.</p><p><a href=\"http://docs.meteor.com/#/full/structuringyourapp\">By convention</a>, files located in the <i>client</i> directory only run<span style=\"line-height: 1.42857;\">&nbsp;client-side.</span></p>",
+                    "ref": "cfa6cc91-8632-11e5-aebe-df0f8426c901",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "cfa6cc92-8632-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "Cypuu"
+                    },
+                    "type": "code"
+                }
+            ],
+            "ref": "6129c2d0-85c0-11e5-aebe-df0f8426c901",
+            "settings": {
+                "hiddenFromTOC": true
+            },
+            "title": "Client side"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>This note describes how the websocket communication between the web application and the server nodes is established and secured.</p>",
+                    "ref": "ae101570-8ff4-11e5-b1f4-57a5ba6f4550",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Websocket connection to the server node is established",
+                    "ref": "90b87dc0-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>When a node is created (= inserted in the <i>Nodes</i> MongoDB collection), a websocket connection to the server node is automatically established thanks to a <a href=\"https://atmospherejs.com/matb33/collection-hooks\">collection hook</a>&nbsp;on object insertion.&nbsp;</p>",
+                    "ref": "6b42ccd0-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "6b42ccd1-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "gSksW"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "6b42ccd2-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "EnkC4"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "A secure communication is established through the websocket",
+                    "ref": "6b42ccd3-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>Once the websocket communication is made, the client immediately sends a <a href=\"https://en.wikipedia.org/wiki/Salted_Challenge_Response_Authentication_Mechanism\">challenge</a> to the server node in order to secure the communication.<br></p><p>Simultaneously, the server is also sending a challenge to the client to secure the communication the other way.</p>",
+                    "ref": "6b42ccd4-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Client-initiated challenge",
+                    "ref": "1f690490-8f2b-11e5-8637-a1d7081e888e",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": null,
+                    "ref": "6b42ccd5-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "linesAfter": 7,
+                        "linesBefore": 0,
+                        "token": "9mcaT"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p><code class=\"code\">Meteor.bindEnvironment</code> <a href=\"https://www.discovermeteor.com/blog/wrapping-npm-packages/\">is required when we use NPM packages</a>, which <i><code class=\"code\">ws</code></i> is.</p>",
+                    "ref": "6b42ccd6-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "6b42ccd7-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "LaBv3"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "The server node receives the message",
+                    "ref": "73a49d60-8f28-11e5-8637-a1d7081e888e",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>The message is identified by the string before the <code class=\"code\">|</code>&nbsp;separator. In this case, the identifier is <code class=\"code\">\"challenge\"</code>.</p>",
+                    "ref": "9562c490-8f28-11e5-8637-a1d7081e888e",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "<p>The server node sends back the answer asynchronously (remember, this is a websocket server!), with a <code class=\"code\">\"challenge_answer\"</code> message.</p>",
+                    "ref": "5cda7fd0-8f2a-11e5-8637-a1d7081e888e",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "8653a280-8f28-11e5-8637-a1d7081e888e",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 0,
+                        "token": "uQh4Q"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "The client receives the answer",
+                    "ref": "aa4a1b90-8f2a-11e5-8637-a1d7081e888e",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "b6af2c40-8f2a-11e5-8637-a1d7081e888e",
+                    "settings": {
+                        "linesAfter": 7,
+                        "linesBefore": 2,
+                        "token": "V2Szn"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "The mongoDB Node document is updated",
+                    "ref": "792adef0-8f70-11e5-9c8b-e567fce499bc",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "68d951d0-8f70-11e5-9c8b-e567fce499bc",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "JByg8"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>Thanks to Meteor reactive rendering, this change will immediately be reflected in the browser.</p>",
+                    "ref": "91bf2340-8f70-11e5-9c8b-e567fce499bc",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "The client sends a get status command to the node server.",
+                    "ref": "da030bd0-8f70-11e5-9c8b-e567fce499bc",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "0af653a0-8f71-11e5-9c8b-e567fce499bc",
+                    "settings": {
+                        "linesAfter": 0,
+                        "linesBefore": 1,
+                        "noteRef": "4b631810-8f71-11e5-9c8b-e567fce499bc",
+                        "token": "tDgsV"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Server-initiated challenge",
+                    "ref": "32dd7c90-8f2b-11e5-8637-a1d7081e888e",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": "Server node sends a challenge to the client",
+                    "ref": "5bc4f6b0-8f62-11e5-8b95-35f938957dd8",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "c53d36a0-8f5a-11e5-8637-a1d7081e888e",
+                    "settings": {
+                        "linesAfter": 8,
+                        "linesBefore": 0,
+                        "token": "j85PP"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Client receives the message and sends the answer back",
+                    "ref": "773028c0-8f62-11e5-8b95-35f938957dd8",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "e1e6b510-8f5a-11e5-8637-a1d7081e888e",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 0,
+                        "token": "bUTUH"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Server receives the answer",
+                    "ref": "7dc44590-8f62-11e5-8b95-35f938957dd8",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "f2c19670-8f5a-11e5-8637-a1d7081e888e",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 0,
+                        "token": "BmczJ"
+                    },
+                    "type": "code"
+                }
+            ],
+            "ref": "5f8fa700-8f25-11e5-8b9d-cd6dd2b00068",
+            "settings": {
+                "firstParagraphIsDescription": true,
+                "hiddenFromTOC": false
+            },
+            "title": "Websocket communication"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p><span style=\"line-height: 1.42857;\">Using </span><a href=\"https://docs.docker.com/compose/\" style=\"line-height: 1.42857; background-color: rgb(255, 255, 255);\">Docker Compose</a><span style=\"line-height: 1.42857;\">, we're going to launch </span><u style=\"line-height: 1.42857;\">three</u><span style=\"line-height: 1.42857;\"> containers : two nodes, plus the front end :</span><br></p><p></p><ul><li><span style=\"line-height: 1.42857;\"><b>node A</b>, which we will set up a <b>primary</b> postgreSQL cluster,</span><br></li><li><span style=\"line-height: 1.42857;\"><b>node B</b>, which we will set up as a <b>slave</b> of node A,</span><br></li><li><span style=\"line-height: 1.42857;\"><b>the front end</b> container running the meteor web app which we will connect to with the browser.</span></li></ul><span style=\"line-height: 1.42857;\">For testing purposes, <u>we will run everything locally</u>.&nbsp;</span><span style=\"line-height: 1.42857;\">In the real world, nodes would be running on distinct remote hosts.</span><div><p></p></div>",
+                    "ref": "e4b4a2c0-b886-11e5-964e-95c35734239a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p><u>Each node</u> uses two ports :</p><p></p><ul><li><span style=\"line-height: 1.42857;\"><code class=\"code\">5432</code> for postgreSQL,</span><br></li><li><span style=\"line-height: 1.42857;\"><code class=\"code\">8888</code> for the websocket between the node and the front end.</span><br></li></ul><p></p>",
+                    "ref": "8bbdddc0-b887-11e5-964e-95c35734239a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p>Since we're testing everything locally, we need to map each node's ports to distinct ports on the host. We chose to map&nbsp;<code class=\"code\">5432</code> to <code class=\"code\">6000</code> and <code class=\"code\">6001</code>, and <code class=\"code\">8888</code> to <code class=\"code\">8888</code> and <code class=\"code\">8889</code>.</p>",
+                    "ref": "b2fed8d0-b887-11e5-964e-95c35734239a",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "595c7c70-b886-11e5-964e-95c35734239a",
+                    "settings": {
+                        "linesAfter": 33,
+                        "linesBefore": 1,
+                        "showIndicator": false,
+                        "syntaxAuto": true,
+                        "token": "fyzyS"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p><u>As for the front end</u>, we're mapping the current directory to <code class=\"code\">/config</code>, which is the directory where the app expects to find a <code class=\"code\">pgpilot.yaml</code> configuration file.&nbsp;</p><p>This file contains the connection information to the nodes :</p>",
+                    "ref": "552661f0-b888-11e5-964e-95c35734239a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "12099480-b88f-11e5-964e-95c35734239a",
+                    "settings": {
+                        "linesAfter": 17,
+                        "linesBefore": 0,
+                        "showIndicator": false,
+                        "syntaxAuto": true,
+                        "token": "BKt3q"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>We set the host to&nbsp;<code class=\"code\">192.168.99.100</code> because this is usually the address of our docker machine. Yours maybe different.</p><p>See <code class=\"code\">docker-machine ip dev</code> command below.</p>",
+                    "ref": "ed05dc00-b94e-11e5-a535-c96ec66f6c1e",
+                    "settings": {
+                        "kind": "important"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "Make sure docker machine is up",
+                    "ref": "aea00800-b886-11e5-964e-95c35734239a",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker-machine start dev",
+                            "type": "command"
+                        },
+                        {
+                            "text": "eval \"$(docker-machine env dev)\"",
+                            "type": "command"
+                        },
+                        {
+                            "text": "docker-machine ip dev",
+                            "type": "command"
+                        },
+                        {
+                            "text": "192.168.99.100",
+                            "type": "result"
+                        }
+                    ],
+                    "ref": "a68487e0-b886-11e5-964e-95c35734239a",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "Launch the 2 nodes + the front end with compose",
+                    "ref": "b995d460-b94e-11e5-a535-c96ec66f6c1e",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": [
+                        {
+                            "inserts": [
+                                {
+                                    "pos": 3,
+                                    "type": "PROJECT_DIR"
+                                }
+                            ],
+                            "text": "cd ",
+                            "type": "command"
+                        },
+                        {
+                            "text": "docker-compose -f docker-compose-quicktest.yml up",
+                            "type": "command"
+                        },
+                        {
+                            "text": "Starting pgnode_slave1",
+                            "type": "result"
+                        },
+                        {
+                            "text": "Starting pgnode_master",
+                            "type": "result"
+                        },
+                        {
+                            "text": "Starting pgpilot_front",
+                            "type": "result"
+                        },
+                        {
+                            "text": "Attaching to pgnode_slave1, pgnode_master, pgpilot_front",
+                            "type": "result"
+                        },
+                        {
+                            "text": "...",
+                            "type": "result"
+                        }
+                    ],
+                    "ref": "8f8fb830-b885-11e5-964e-95c35734239a",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "Open the web app",
+                    "ref": "54af2eb0-b94f-11e5-a535-c96ec66f6c1e",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>Open your browser and connect to your docker machine.</p><p>Ours is visible at <span data-auto-link=\"true\" data-href=\"http://192.168.99.100:8080\"><a href=\"http://192.168.99.100:8080\">http://192.168.99.100:8080</a></span></p>",
+                    "ref": "6468c190-b94f-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "ff28ee80-bd64-11e5-b6ff-39c6cd57b69b",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "ff287950-bd64-11e5-b6ff-39c6cd57b69b",
+                                "settings": {
+                                    "imageRef": "ff3b3e00-bd64-11e5-b6ff-39c6cd57b69b"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "ff287950-bd64-11e5-b6ff-39c6cd57b69b"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "Make Server A the master and Server B its slave",
+                    "ref": "627c9710-b951-11e5-a535-c96ec66f6c1e",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>Newly created pgnodes don't have any database cluster set.</p><p>Click \"Create Master\" on Server A to initialize one.</p><p><span style=\"line-height: 1.42857;\">Start the server when it's ready.</span></p><p><span style=\"line-height: 1.42857;\">Now, on Server B, Create a Slave of server A.&nbsp;</span></p>",
+                    "ref": "a3b11850-b951-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "fcfe01b1-b952-11e5-a535-c96ec66f6c1e",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "fcfe01b0-b952-11e5-a535-c96ec66f6c1e",
+                                "settings": {
+                                    "imageRef": "fd066620-b952-11e5-a535-c96ec66f6c1e"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "fcfe01b0-b952-11e5-a535-c96ec66f6c1e"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "Clean up",
+                    "ref": "25c41950-b957-11e5-a535-c96ec66f6c1e",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>In the terminal sessions, type <code class=\"code\">Ctrl-C</code> to stop.</p><p>You can clean up the containers with :</p>",
+                    "ref": "46eeb310-b957-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker-compose -f docker-compose-quicktest.yml rm",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "5852e8b0-b957-11e5-a535-c96ec66f6c1e",
+                    "settings": {},
+                    "type": "shell"
+                }
+            ],
+            "ref": "6a31fc10-b885-11e5-964e-95c35734239a",
+            "settings": {},
+            "title": "Quick try"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>We're going to create a <a href=\"http://www.postgresql.org/docs/current/static/warm-standby.html#STREAMING-REPLICATION-SLOTS\">replication slot</a>&nbsp;on the Master and init the other node as a slave of the master.<br></p>",
+                    "ref": "b54509a0-9859-11e5-8e74-8bacb0489527",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "<p>We assume two fresh nodes have been launched :</p>",
+                    "ref": "7d2df410-ebf4-11e6-a9c2-0d50068f5333",
+                    "settings": {
+                        "noteRef": "1577e910-984a-11e5-a837-077a82bd7a4f"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "a57bae60-9850-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "a57b8750-9850-11e5-8e74-8bacb0489527",
+                                "settings": {
+                                    "imageRef": "a5887fa0-9850-11e5-8e74-8bacb0489527"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "a57b8750-9850-11e5-8e74-8bacb0489527"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "User clicks the Create Slave button, dropdown menu is shown",
+                    "ref": "c60b67b0-9850-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "512378c1-9846-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "512378c0-9846-11e5-a837-077a82bd7a4f",
+                                "settings": {
+                                    "caption": {
+                                        "content": "<p>Master node selection from the dropdown menu</p>"
+                                    },
+                                    "hasBorder": true,
+                                    "hasCaption": true,
+                                    "hasDropShadow": false,
+                                    "imageRef": "512e7540-9846-11e5-a837-077a82bd7a4f"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "512378c0-9846-11e5-a837-077a82bd7a4f"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "<p>The dropdown menu filters out nodes that cannot be used as a master :</p>",
+                    "ref": "df407fe0-9850-11e5-8e74-8bacb0489527",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "607c6a80-9845-11e5-a837-077a82bd7a4f",
+                    "settings": {
+                        "linesAfter": 9,
+                        "linesBefore": 0,
+                        "token": "mxfVL"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "User picks the Master and confirms",
+                    "ref": "cdd5e800-9858-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "b576e8b0-9851-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 2,
+                        "linesBefore": 0,
+                        "token": "EuUua"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "c0d7f6e0-9851-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 7,
+                        "linesBefore": 0,
+                        "token": "bHaxJ"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p><b>Meteor.call()</b> is used to invoke from the front end an action that is defined in server side of the Meteor app.</p>",
+                    "ref": "66e54180-9859-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "24a7f841-9858-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "24a7f840-9858-11e5-8e74-8bacb0489527",
+                                "settings": {
+                                    "imageRef": "24bbce60-9858-11e5-8e74-8bacb0489527"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "24a7f840-9858-11e5-8e74-8bacb0489527"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "An \"create slave\" action is prepared in Meteor",
+                    "ref": "596cc500-9859-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "ec785470-9851-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 24,
+                        "linesBefore": 0,
+                        "token": "Pg3rR"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "06d90ca0-9858-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "06d8e590-9858-11e5-8e74-8bacb0489527",
+                                "settings": {
+                                    "imageRef": "06e5dde0-9858-11e5-8e74-8bacb0489527"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "06d8e590-9858-11e5-8e74-8bacb0489527"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "The command is sent to the master node",
+                    "ref": "a1a91e60-9857-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "2e8820e0-985a-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "kbLA6"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>In the <b>master</b> node :</p>",
+                    "ref": "af8e5f10-985a-11e5-8e74-8bacb0489527",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "970c2380-9857-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 5,
+                        "linesBefore": 0,
+                        "token": "ptH8j"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "An \"init slave\" action is now prepared in Meteor and sent to the slave node",
+                    "ref": "45c364e0-985a-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "88b351c0-985a-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 8,
+                        "linesBefore": 0,
+                        "token": "SjMEb"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "The command runs in the slave node",
+                    "ref": "f4b13180-985a-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "bcc9d290-985a-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "linesAfter": 17,
+                        "linesBefore": 0,
+                        "token": "96UPT"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>More about the main scripts that are run :</p>",
+                    "ref": "433d8e70-9888-11e5-ad23-6988e9d175be",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "Link to...",
+                    "ref": "dbbb0c60-9881-11e5-ad23-6988e9d175be",
+                    "settings": {
+                        "noteRef": "464f8b60-9872-11e5-8e74-8bacb0489527"
+                    },
+                    "type": "reference"
+                },
+                {
+                    "content": "Streaming replication is now operational",
+                    "ref": "40246100-985b-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "0912da91-9859-11e5-8e74-8bacb0489527",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "0912da90-9859-11e5-8e74-8bacb0489527",
+                                "settings": {
+                                    "imageRef": "091e2530-9859-11e5-8e74-8bacb0489527"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "0912da90-9859-11e5-8e74-8bacb0489527"
+                    },
+                    "type": "imageGroup"
+                }
+            ],
+            "ref": "8959ccf0-9844-11e5-a837-077a82bd7a4f",
+            "settings": {},
+            "title": "Master / Slave Replication"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>What we call the server here is not the postgreSQL server, it's the server-side of the Meteor app.</p>",
+                    "ref": "2af29b40-8edc-11e5-88ba-e577154f0672",
+                    "settings": {
+                        "kind": "important"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "Meteor.startup() is called and configuration.json is read",
+                    "ref": "6fca35e0-7b3e-11e5-89f3-152d0a796dd9",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>Meteor <a href=\"http://docs.meteor.com/#/full/meteor_startup\">calls this function automatically on startup</a>.</p><p><a href=\"http://docs.meteor.com/#/full/structuringyourapp\">By convention</a>, files located in the <i>server</i> directory only run server-side.</p>",
+                    "ref": "0bad61b0-8578-11e5-aebe-df0f8426c901",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "48a113f0-7b0f-11e5-b2ba-670f641a2552",
+                    "settings": {
+                        "linesAfter": 19,
+                        "linesBefore": 0,
+                        "token": "NRSMr"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Node documents are created",
+                    "ref": "77d9f630-7b3e-11e5-89f3-152d0a796dd9",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>What we call a Node is an document (from a <a href=\"http://docs.meteor.com/#/full/mongo_collection\">MongoDB collection</a>) that represents a PGPilot node.</p><p>When the application launches for the first time, no node is created unless some are defined in the configuration file.</p>",
+                    "ref": "a02cd670-7b3e-11e5-89f3-152d0a796dd9",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "44201450-7b3e-11e5-89f3-152d0a796dd9",
+                    "settings": {
+                        "linesAfter": 7,
+                        "linesBefore": 0,
+                        "token": "odvgv"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "bce8afb0-8597-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "linesAfter": 11,
+                        "linesBefore": 0,
+                        "token": "KHERt"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Websocket connections to each server node are established",
+                    "ref": "4f998710-85b3-11e5-aebe-df0f8426c901",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "Link to...",
+                    "ref": "bf940920-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "noteRef": "5f8fa700-8f25-11e5-8b9d-cd6dd2b00068"
+                    },
+                    "type": "reference"
+                }
+            ],
+            "ref": "0ec0f240-7b0f-11e5-b2ba-670f641a2552",
+            "settings": {
+                "hiddenFromTOC": true
+            },
+            "title": "Server side"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>This note describes what happens when the user clicks the \"New Node\" button.</p>",
+                    "ref": "5da62570-8ff4-11e5-b1f4-57a5ba6f4550",
+                    "settings": {
+                        "kind": ""
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "NavBar's New Node button",
+                    "ref": "cf5a1590-8f19-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "5a532bf0-8f1a-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "5a5304e0-8f1a-11e5-bcb7-6d390970f7b7",
+                                "settings": {
+                                    "imageRef": "5a599490-8f1a-11e5-bcb7-6d390970f7b7"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "5a5304e0-8f1a-11e5-bcb7-6d390970f7b7"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": null,
+                    "ref": "faa48060-8f18-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "linesAfter": 4,
+                        "linesBefore": 3,
+                        "token": "FWNuw"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Handler",
+                    "ref": "d9550410-8f19-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "2d5b2310-8f19-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "linesAfter": 2,
+                        "linesBefore": 0,
+                        "token": "q78pK"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>We use the <code class=\"code\">launchModal</code> helper to display the <code class=\"code\">NodeEditModal</code> react component as a Bootstrap modal.</p>",
+                    "ref": "ff057410-8f19-11e5-bcb7-6d390970f7b7",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "3aaa45a0-8f19-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "linesAfter": 8,
+                        "linesBefore": 0,
+                        "token": "EKEee"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p><code class=\"code\">model</code> is <code class=\"code\">null</code> when we define a new node.</p>",
+                    "ref": "347913e0-8f1a-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "c30e0b20-8f19-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "aWzaF"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "NodeEditModal component opens",
+                    "ref": "80ab74b0-8f1a-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "8d59c360-8f1a-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "ttxNh"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "User edits, saves. Handler is called.",
+                    "ref": "0b921480-8f1b-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "257239c0-8f1b-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "linesAfter": 7,
+                        "linesBefore": 0,
+                        "token": "TuC43"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>The save handler that we passed as a prop earlier is called :</p>",
+                    "ref": "4a75a0e0-8f1b-11e5-bcb7-6d390970f7b7",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "42de44e0-8f1b-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "linesAfter": 8,
+                        "linesBefore": 0,
+                        "token": "EKEee"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "A Node document is inserted in the MongoDB collection",
+                    "ref": "6738e8e0-8f1b-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "73339f00-8f1b-11e5-bcb7-6d390970f7b7",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 0,
+                        "token": "TJ24Q"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "The websocket connection to the server node is established",
+                    "ref": "dbc953e0-8f23-11e5-a8e2-bfc805429c2b",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "Link to...",
+                    "ref": "7ef18eb0-8f25-11e5-8b9d-cd6dd2b00068",
+                    "settings": {
+                        "noteRef": "5f8fa700-8f25-11e5-8b9d-cd6dd2b00068"
+                    },
+                    "type": "reference"
+                }
+            ],
+            "ref": "4c5e30a0-8f13-11e5-bcb7-6d390970f7b7",
+            "settings": {
+                "firstParagraphIsDescription": true
+            },
+            "title": "New node"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>Let's take as an example the first action of <code class=\"code\">cmd_status()</code>.</p>",
+                    "ref": "f442b030-8fb2-11e5-bbc0-111c2f20285a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "7fb7a2c0-8fb2-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 2,
+                        "linesBefore": 1,
+                        "token": "fARFV"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>Here we pass two commands.&nbsp;</p><p>Each command is a tuple of the form:<i style=\"line-height: 1.42857;\"><code class=\"code\">(analyse hint, command)</code></i><span style=\"line-height: 1.42857;\">.</span></p><p>The <i><code class=\"code\">analyse hint</code></i>&nbsp;indicates the kind of parsing we want to use.</p><p>At the end of the <b>execute()</b> method, <b>analyze()</b> is called :</p>",
+                    "ref": "8daca240-8fb2-11e5-bbc0-111c2f20285a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "8f0474a0-8fb3-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 1,
+                        "linesBefore": 0,
+                        "token": "2wmLW"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "c7c49cd0-8fb2-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 3,
+                        "token": "ktRxW"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>Then <b>write_analyse()</b> is called :</p>",
+                    "ref": "c5dd49c0-8fb3-11e5-bbc0-111c2f20285a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "17eeebc0-8fb3-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "RpdVs"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "2522e530-8fb3-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "S8qsy"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>This websocket message will be parsed by the front end :</p>",
+                    "ref": "d8d083d0-8fb3-11e5-bbc0-111c2f20285a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "fde35440-8fb3-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "4lK4k"
+                    },
+                    "type": "code"
+                }
+            ],
+            "ref": "7630f9e0-8fb2-11e5-bbc0-111c2f20285a",
+            "settings": {
+                "hiddenFromTOC": true
+            },
+            "title": "Analyzed data example"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>In order to run the web app you need to have&nbsp;<a href=\"https://www.meteor.com/install\">Meteor</a>&nbsp;installed on your computer.<br></p><p>In order to launch a postgresql node, you just need to have <a href=\"https://www.docker.com\">Docker</a> running on the host.</p>",
+                    "ref": "c329a990-b230-11e5-bb6d-852f7df2a799",
+                    "settings": {},
+                    "type": "text"
+                }
+            ],
+            "ref": "3b3d9800-8ff5-11e5-b1f4-57a5ba6f4550",
+            "settings": {},
+            "title": "Requirements"
+        },
+        {
+            "items": [
+                {
+                    "content": "<p>The communication between the front end and the server nodes is totally asynchronous (websockets!).</p><p>The front end has the ability to trigger commands on the nodes, which they react to, sending messages back to the front end.</p><p>On each side, we have helper methods to let us do that in a convenient way.</p><p>On the front end, we will use the <code class=\"code\">Controller.sendCommand()</code>&nbsp;method to send a command.</p>",
+                    "ref": "d416ab70-8f96-11e5-aa00-2d8f160b7b78",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "8d85cfe0-b15d-11e5-b3ad-f9c443e44f71",
+                    "settings": {
+                        "imageAlign": "center",
+                        "images": [
+                            {
+                                "ref": "530e5230-98dd-11e5-a446-094c1ef440c7",
+                                "settings": {
+                                    "imageRef": "53190090-98dd-11e5-a446-094c1ef440c7"
+                                }
+                            }
+                        ],
+                        "selectedImageRef": "530e5230-98dd-11e5-a446-094c1ef440c7"
+                    },
+                    "type": "imageGroup"
+                },
+                {
+                    "content": "Front end",
+                    "ref": "dd190f80-8f9e-11e5-aa00-2d8f160b7b78",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": null,
+                    "ref": "1b27eaf0-8f98-11e5-aa00-2d8f160b7b78",
+                    "settings": {
+                        "linesAfter": 18,
+                        "linesBefore": 0,
+                        "token": "K3zmV"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "Node Server",
+                    "ref": "cd5d24f0-8f99-11e5-aa00-2d8f160b7b78",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": "The command is first identified in the message incoming from the front end",
+                    "ref": "ba5d9ec0-8fad-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": null,
+                    "ref": "22688450-8fac-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 7,
+                        "linesBefore": 0,
+                        "token": "ccNjl"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>In theory, we don't necessarily have to send a command from the front end to get a result.</p><p>In the future, the server could for example be able to run periodic commands (ex: maintenance) and \"stream\" the results to whatever GUI it is connected to.</p><p>Remember : websockets work both ways !</p>",
+                    "ref": "7a1101f0-8fac-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "The command is run",
+                    "ref": "c50d5e50-8fad-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "imageAlign": "center"
+                    },
+                    "type": "step"
+                },
+                {
+                    "content": "<p>The command string is mapped to its corresponding python method (starting with <i>cmd_</i>).</p><p>Some are simple (no argument), other require arguments parsing with regex.</p>",
+                    "ref": "b384d070-8fb0-11e5-bbc0-111c2f20285a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "2dbab380-8fae-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 6,
+                        "linesBefore": 0,
+                        "token": "7Lytt"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>Each command can run multiple shell commands or SQL queries to achieve the result.</p><p>One of the most complex ones is <code class=\"code\">cmd_status()</code>, which runs multiple commands and queries.</p>",
+                    "ref": "0de1e6c0-8fb1-11e5-bbc0-111c2f20285a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "43aa0f30-8fb1-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "rwR9e"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>We have a couple interesting helper methods :</p>",
+                    "ref": "638d82f0-8fb1-11e5-bbc0-111c2f20285a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": "execute()",
+                    "ref": "03a86cd0-8faa-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "level": 2
+                    },
+                    "type": "heading"
+                },
+                {
+                    "content": null,
+                    "ref": "ba7f6eb0-8f99-11e5-aa00-2d8f160b7b78",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "H2955"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "sql() and sql_all()",
+                    "ref": "08c775d0-8faa-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "level": 2
+                    },
+                    "type": "heading"
+                },
+                {
+                    "content": null,
+                    "ref": "698b3050-8faa-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "CWlWp"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": null,
+                    "ref": "7cee6a40-8faa-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "AtbNK"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p>At some point all these helpers use <code class=\"code\">self.write_stdout()</code>&nbsp;to <u>stream the command output to the front end</u>.</p>",
+                    "ref": "9303c7b0-8fb1-11e5-bbc0-111c2f20285a",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": null,
+                    "ref": "af4ef980-8fb1-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "linesAfter": 3,
+                        "linesBefore": 0,
+                        "token": "uUNzC"
+                    },
+                    "type": "code"
+                },
+                {
+                    "content": "<p><code class=\"code\">self.handler.write_message()</code> actually <a href=\"http://www.tornadoweb.org/en/stable/websocket.html#tornado.websocket.WebSocketHandler.write_message\">invokes Tornado's WebsocketHandler</a>.</p>",
+                    "ref": "649f4be0-bd76-11e5-9191-c3501916d748",
+                    "settings": {
+                        "kind": "hint"
+                    },
+                    "type": "text"
+                },
+                {
+                    "content": "<p>Additionally, on top of that, we can pass&nbsp;<i>analyzed</i>&nbsp;data, which is for example extracted from the raw output using various parsing methods.</p>",
+                    "ref": "ea301070-8fb1-11e5-bbc0-111c2f20285a",
+                    "settings": {
+                        "noteRef": "7630f9e0-8fb2-11e5-bbc0-111c2f20285a"
+                    },
+                    "type": "text"
+                }
+            ],
+            "ref": "467a8860-8f71-11e5-9c8b-e567fce499bc",
+            "settings": {},
+            "title": "Overview"
+        },
+        {
+            "items": [
+                {
+                    "content": "Dump",
+                    "ref": "d3c206c0-bd80-11e5-9191-c3501916d748",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": "<p>This is how you can dump your remote database to a local file.</p>",
+                    "ref": "eb4f0a70-c084-11e5-9a01-c56f8dcd0835",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "ssh user@%host docker exec -i remote_container_db pg_dump -Fc -U postgres postgres | dd > dump.csql",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "782561c0-c084-11e5-9a01-c56f8dcd0835",
+                    "settings": {},
+                    "type": "shell"
+                },
+                {
+                    "content": "Restore",
+                    "ref": "37d49450-c085-11e5-9a01-c56f8dcd0835",
+                    "settings": {},
+                    "type": "heading"
+                },
+                {
+                    "content": "<p>This is how you can restore such a file to a database running in a local container.</p>",
+                    "ref": "fca44bf0-c084-11e5-9a01-c56f8dcd0835",
+                    "settings": {},
+                    "type": "text"
+                },
+                {
+                    "content": [
+                        {
+                            "text": "docker exec -i local_docker_db_name psql -U postgres -d template1 -c \"DROP DATABASE postgres\"",
+                            "type": "command"
+                        },
+                        {
+                            "text": "docker exec -i local_docker_db_name psql -U postgres -d template1 -c \"CREATE DATABASE postgres\"",
+                            "type": "command"
+                        },
+                        {
+                            "text": "cat dump.csql | docker exec -i local_docker_db_name pg_restore -U postgres --no-owner -n public -d postgres",
+                            "type": "command"
+                        }
+                    ],
+                    "ref": "b8975650-c084-11e5-9a01-c56f8dcd0835",
+                    "settings": {},
+                    "type": "shell"
+                }
+            ],
+            "ref": "c3713cf0-bd80-11e5-9191-c3501916d748",
+            "settings": {},
+            "title": "Tips"
+        }
+    ],
+    "path": "/Users/dom/Dropbox/dev/codestory-documentation/Sample Project/PGPilot documentation.codestory",
+    "pinnedFiles": [],
+    "roots": [
+        {
+            "accessible": true,
+            "base": "/Users/dom/Dropbox/dev/pgpilot",
+            "excludeDirs": [],
+            "fullPath": "/Users/dom/Dropbox/dev/pgpilot",
+            "id": "4c243d40-b886-11e5-964e-95c35734239a",
+            "name": "Root",
+            "path": ""
+        },
+        {
+            "accessible": true,
+            "base": "/Users/dom/Dropbox/dev/pgpilot",
+            "excludeDirs": [
+                ".idea",
+                ".meteor/local",
+                "configuration.json",
+                "node_modules",
+                "packages"
+            ],
+            "fullPath": "/Users/dom/Dropbox/dev/pgpilot/pgpilot-webapp",
+            "id": "electron",
+            "name": "Front End",
+            "path": "pgpilot-webapp"
+        },
+        {
+            "accessible": true,
+            "base": "/Users/dom/Dropbox/dev/pgpilot",
+            "excludeDirs": [
+                ".idea",
+                "www/.idea"
+            ],
+            "fullPath": "/Users/dom/Dropbox/dev/pgpilot/pgpilot-node",
+            "id": "80dd7470-7911-11e5-a814-75e04d8b8332",
+            "name": "PGNode",
+            "path": "pgpilot-node"
+        }
+    ],
+    "toc": {
+        "items": [
+            {
+                "children": [
+                    {
+                        "ref": "cb843a10-8634-11e5-aebe-df0f8426c901",
+                        "type": "note"
+                    },
+                    {
+                        "ref": "3b3d9800-8ff5-11e5-b1f4-57a5ba6f4550",
+                        "type": "note"
+                    },
+                    {
+                        "ref": "6a31fc10-b885-11e5-964e-95c35734239a",
+                        "type": "note"
+                    },
+                    {
+                        "ref": "a0a2d4a0-b956-11e5-a535-c96ec66f6c1e",
+                        "type": "note"
+                    },
+                    {
+                        "ref": "c3713cf0-bd80-11e5-9191-c3501916d748",
+                        "type": "note"
+                    }
+                ],
+                "title": "Overview",
+                "type": "section"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "ref": "bb32ef80-a38a-11e5-b2ab-cf292de24287",
+                        "type": "note"
+                    },
+                    {
+                        "children": [
+                            {
+                                "ref": "1487d180-f6ce-11e6-96cb-07a1c65b119a",
+                                "type": "note"
+                            }
+                        ],
+                        "ref": "7cb7ea40-7b0c-11e5-b2ba-670f641a2552",
+                        "type": "note"
+                    }
+                ],
+                "title": "Development",
+                "type": "section"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "ref": "a6cd9b70-8edc-11e5-88ba-e577154f0672",
+                        "type": "note"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "ref": "0ec0f240-7b0f-11e5-b2ba-670f641a2552",
+                                "type": "note"
+                            },
+                            {
+                                "children": [],
+                                "ref": "6129c2d0-85c0-11e5-aebe-df0f8426c901",
+                                "type": "note"
+                            }
+                        ],
+                        "ref": "f3a6a6d0-85b8-11e5-aebe-df0f8426c901",
+                        "type": "note"
+                    },
+                    {
+                        "ref": "4c5e30a0-8f13-11e5-bcb7-6d390970f7b7",
+                        "type": "note"
+                    },
+                    {
+                        "ref": "5f8fa700-8f25-11e5-8b9d-cd6dd2b00068",
+                        "type": "note"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "ref": "7630f9e0-8fb2-11e5-bbc0-111c2f20285a",
+                                        "type": "note"
+                                    }
+                                ],
+                                "ref": "467a8860-8f71-11e5-9c8b-e567fce499bc",
+                                "type": "note"
+                            },
+                            {
+                                "ref": "4b631810-8f71-11e5-9c8b-e567fce499bc",
+                                "type": "note"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "ref": "c30344b0-9f8b-11e5-b9dc-3759b64e4f46",
+                                        "type": "note"
+                                    }
+                                ],
+                                "ref": "78efd470-9f58-11e5-be17-f7e2c080c49c",
+                                "type": "note"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "ref": "1577e910-984a-11e5-a837-077a82bd7a4f",
+                                        "type": "note"
+                                    },
+                                    {
+                                        "ref": "464f8b60-9872-11e5-8e74-8bacb0489527",
+                                        "type": "note"
+                                    }
+                                ],
+                                "ref": "8959ccf0-9844-11e5-a837-077a82bd7a4f",
+                                "type": "note"
+                            },
+                            {
+                                "ref": "5c43f580-9888-11e5-ad23-6988e9d175be",
+                                "type": "note"
+                            }
+                        ],
+                        "title": "Commands",
+                        "type": "section"
+                    },
+                    {
+                        "ref": "d636b7e0-b7fc-11e5-b8f2-37135766cb5b",
+                        "type": "note"
+                    }
+                ],
+                "title": "Mechanisms",
+                "type": "section"
+            }
+        ],
+        "selectedNotes": [
+            "cb843a10-8634-11e5-aebe-df0f8426c901"
+        ]
+    }
+}

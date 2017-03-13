@@ -1,0 +1,16 @@
+projectName: Testing...  #BKt3q#
+nodes:
+  - name: Server A
+    host: "127.0.0.1"
+    password: mypassword
+    server_cert: null
+    postgres_port: "6001"
+    websocket_port: "8888"
+    check_server_cert: false
+  - name: Server B
+    host: "127.0.0.1"
+    password: mypassword
+    server_cert: null
+    postgres_port: "6000"
+    websocket_port: "8889"
+    check_server_cert: false

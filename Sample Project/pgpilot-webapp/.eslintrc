@@ -1,0 +1,50 @@
+{
+    "parser"  : "babel-eslint",
+    "extends" : [
+     "airbnb",
+    #  "eslint:recommended",
+    #  "standard-react"
+    ],
+    "plugins" : [
+    # "flow-vars"
+        "react"
+    ],
+    "env"     : {
+        "browser" : true
+    },
+    "globals" : {
+        "_": false,
+        "Meteor": false,
+        "jQuery": false,
+        "Nodes": false,
+        "ModalItems": false,
+    },
+    "rules": {
+        "no-console": 1,
+        #"indent" : [1, 4],
+        "semi": 0,
+        "max-len": 0,
+        "new-cap": 0,
+        "no-unused-vars": [1, {"vars": "all", "args": "none"}],
+        "dot-notation": 0,
+        "no-trailing-spaces": 1,
+        "no-param-reassign": 0,
+        "import/no-extraneous-dependencies": ["error", {"devDependencies": ["meteor/**"]}],
+        "react/jsx-no-bind": 0,
+        "import/extensions": 0,
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+        "no-underscore-dangle": 0,
+        "class-methods-use-this": 0,
+        "no-alert": 0,
+        # "space-in-parens": 0,
+        # "spaced-comment": 0,
+        # "operator-linebreak": 0,
+        # "semi" : [2, "never"],
+        # "space-infix-ops": 0,
+        # "max-len": [2, 120, 2],
+        # "flow-vars/define-flow-type": 1,
+        # "flow-vars/use-flow-type": 1,
+#        "space-before-function-paren" : [2, "never"]
+    }
+
+}

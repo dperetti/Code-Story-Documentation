@@ -1,0 +1,35 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "babel-eslint": "^7.1.1",
+    "bufferutil": "^2.0.0",
+    "classnames": "^2.2.5",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "meteor-node-stubs": "^0.2.5",
+    "react": "^15.3.2",
+    "react-addons-create-fragment": "^15.3.2",
+    "react-addons-css-transition-group": "^15.3.2",
+    "react-addons-linked-state-mixin": "^15.3.2",
+    "react-addons-perf": "^15.3.2",
+    "react-addons-pure-render-mixin": "^15.3.2",
+    "react-addons-test-utils": "^15.3.2",
+    "react-addons-transition-group": "^15.3.2",
+    "react-addons-update": "^15.3.2",
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.2",
+    "tunnel-ssh": "0.0.5",
+    "utf-8-validate": "^3.0.0",
+    "ws": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.0.0",
+    "babel-plugin-transform-class-properties": "^6.16.0",
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.3.0"
+  }
+}

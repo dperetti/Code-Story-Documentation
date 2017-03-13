@@ -1,0 +1,18 @@
+# TYPE  DATABASE        USER            ADDRESS                 METHOD
+# "local" is for Unix domain socket connections only
+local   all             all                                     trust
+# IPv4 local connections:
+host    all             all             127.0.0.1/32            trust
+# IPv6 local connections:
+host    all             all             ::1/128                 trust
+# Docker containers on the same host
+host    all             all             172.17.0.1/16           trust
+
+# Allow anyone to connect remotely over SSL as long as they have a valid username and
+# password.
+hostssl all all 0.0.0.0/0 md5
+hostnossl all all 0.0.0.0/0 reject
+
+local replication postgres trust
+hostssl replication +replication 0.0.0.0/0 md5
+hostnossl replication +replication 0.0.0.0/0 reject

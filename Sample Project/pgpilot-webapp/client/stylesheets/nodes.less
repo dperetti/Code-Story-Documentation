@@ -1,0 +1,102 @@
+@import "helpers";
+
+@green: #00d800;
+@red: #d82b00;
+
+.node {
+
+  .panel-heading {
+
+    .panel-title {
+      font-size: 14px;
+    }
+
+    text-align: left;
+    vertical-align: middle;
+
+    span.address {
+      text-align: left;
+      line-height: 16px;
+      vertical-align: middle;
+      span.host {
+        font-weight: bold;
+      }
+      span.postgres-port {
+        font-weight: bold;
+      }
+      span.websocket-port {
+        color: gray;
+      }
+    }
+
+    div.socket {
+      .full-circle(14px);
+      margin-right: 5px;
+      vertical-align: middle;
+      display: inline-block;
+      background-color: @red;
+
+      &.up {
+        background-color: @green;
+      }
+      &.disconnected {
+        border: 1px solid gray;
+        background-color: white;
+      }
+    }
+
+    div.node-status {
+      position: relative;
+      .state {
+      }
+      .disk-usage {
+        position: absolute;
+        top: 0;
+        right: 0;
+      }
+    }
+
+    .node-edit-button {
+      position: absolute;
+      right: 10px;
+      top: -4px;
+    }
+
+  }
+
+  .status {
+    text-align: left;
+  }
+  .slots {
+    text-align: left;
+    .slot {
+      vertical-align: middle;
+      div.slot-status {
+        .full-circle(11px);
+        display: inline-block;
+        margin-right: 4px;
+        //      vertical-align: middle;
+        &.slot-status-up {
+          background-color: @green;
+        }
+        &.slot-status-down {
+          background-color: @red;
+          .blink();
+        }
+      }
+      span.label {
+        background-color: #bcbcbc;
+      }
+      .button-delete.btn-link {
+        color: darkred;
+      }
+
+    }
+  }
+
+  .node-edit-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}

@@ -1,0 +1,59 @@
+// prevent button selection in Chrome
+button:focus {outline:0 !important;}
+
+.full-circle(@diameter) {
+  height: @diameter;
+  width: @diameter;
+  text-align: center;
+  vertical-align: middle;
+  -moz-border-radius: @diameter/2;
+  -webkit-border-radius: @diameter/2;
+  -webkit-border-radius: @diameter/2;
+}
+
+.blink {
+  animation: blink 1s steps(5, start) infinite;
+  -webkit-animation: blink 1s steps(5, start) infinite;
+}
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+
+
+.spinner {
+  display: inline-block;
+  opacity: 0;
+  width: 0;
+
+  -webkit-transition: opacity 0.25s, width 0.25s;
+  -moz-transition: opacity 0.25s, width 0.25s;
+  -o-transition: opacity 0.25s, width 0.25s;
+  transition: opacity 0.25s, width 0.25s;
+}
+
+.has-spinner.active {
+    .spinner {
+      opacity: 1;
+      //width: auto; /* This doesn't work, just fix for unknown width elements */
+    }
+
+    &.btn-xs .spinner {
+      width: 16px;
+    }
+
+    &.btn-sm .spinner {
+      width: 22px;
+    }
+
+    &.btn-default .spinner {
+      width: 18px;
+    }
+
+}

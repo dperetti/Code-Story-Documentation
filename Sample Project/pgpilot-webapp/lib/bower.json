@@ -1,0 +1,14 @@
+{
+  "name": "pgpilot",
+  "version": "0.0.1",
+  "dependencies": {
+    "react-bootstrap": "0.28.2"
+  },
+  "ignoredDependencies": [
+    "react"
+  ],
+  "private": true,
+  "resolutions": {
+    "react": ">=0.14.0"
+  }
+}
