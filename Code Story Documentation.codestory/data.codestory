@@ -14,7 +14,7 @@
         "sass",
         "sh"
     ],
-    "focusedItemRef": "01559bd0-fde3-11e6-9fd3-2f4c87b89124",
+    "focusedItemRef": null,
     "images": [
         {
             "ref": "950c6af0-fdd1-11e6-9fd3-2f4c87b89124",
@@ -228,13 +228,6 @@
             "size": {
                 "height": 171,
                 "width": 771
-            }
-        },
-        {
-            "ref": "ee8745f0-b65b-11e5-b77b-cddb98cc8178",
-            "size": {
-                "height": 200,
-                "width": 200
             }
         },
         {
@@ -1896,7 +1889,7 @@
                                 "ref": "aa41ecf0-b634-11e5-a520-5d43e2baac15",
                                 "settings": {
                                     "caption": {
-                                        "content": "<p>Caption of image 1</p>"
+                                        "content": "<p>Caption of image&nbsp;</p>"
                                     },
                                     "hasBorder": false,
                                     "hasCaption": true,
@@ -1904,21 +1897,10 @@
                                     "imageRef": "de537a00-b65b-11e5-b77b-cddb98cc8178"
                                 },
                                 "type": "image"
-                            },
-                            {
-                                "ref": "ed5d9ec0-b405-11e5-8887-89ac8d5c1e59",
-                                "settings": {
-                                    "caption": {
-                                        "content": "<p>Caption of image 2</p>"
-                                    },
-                                    "hasCaption": true,
-                                    "hasDropShadow": true,
-                                    "imageRef": "ee8745f0-b65b-11e5-b77b-cddb98cc8178"
-                                }
                             }
                         ],
                         "maxHeight": 113,
-                        "selectedImageRef": "9511fcf0-0276-11e7-a885-713742452476"
+                        "selectedImageRef": "aa41ecf0-b634-11e5-a520-5d43e2baac15"
                     },
                     "type": "imageGroup"
                 },
